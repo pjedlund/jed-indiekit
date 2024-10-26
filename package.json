@@ -1,12 +1,12 @@
 {
-  "name": "example-config",
+  "name": "johanedlundse-indiekit",
   "version": "1.0.0",
-  "description": "Example configuration for Indiekit",
+  "description": "Indiekit server for my personal website"",
   "keywords": [
     "indiekit",
     "indieweb"
   ],
-  "homepage": "https://github.com/getindiekit/example-config#readme",
+  "homepage": "https://indiekit.johanedlund.se",
   "bugs": {
     "url": "https://github.com/getindiekit/example-config/issues"
   },
